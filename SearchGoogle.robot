@@ -1,5 +1,5 @@
 *** Setting ***
-Library    Selenium2Library    3s
+Library    Selenium2Library    10s
 
 *** Variable ***
 
@@ -16,7 +16,7 @@ Library    Selenium2Library    3s
 เปิดบราวเซอร์ Google
     open browser    http://www.google.co.th
 กรอกข้อมูลที่จะค้นหาวิธีปราบเมืย
-    input text     qq    วิธีปราบเมีย
+    input text     q    วิธีปราบเมีย
 กดปุ่มค้นหา
     click button    btnG
 แสดงข้อมูลที่ต้องการค้นหา "ใครมีวิธีปราบเมียมั่งครับ"
