@@ -1,5 +1,5 @@
 *** Setting ***
-Library    Selenium2Library    10s
+Library    Selenium2Library    11s
 
 *** Variable ***
 
